@@ -9,5 +9,5 @@ To observe ViewModels Combine framework is used, in order to reduce the coupling
 
 Dependency injections are used at some places to use classes in unit tests.
 
-Project has unit test cases covered.
+Project has some unit test cases covered. 
 
