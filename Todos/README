@@ -1,0 +1,13 @@
+
+Project is built on Xcode 14.2, macOS 12.6.3
+
+App Supports iOS 16.0 and above.
+
+App is using MVVM architecture.
+
+To observe ViewModels Combine framework is used, in order to reduce the coupling between views and view-models. This approach also facilitate unit testing.
+
+Dependency injections are used at some places to use classes in unit tests.
+
+Project has unit test cases covered.
+
